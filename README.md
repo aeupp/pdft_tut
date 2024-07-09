@@ -3,3 +3,6 @@ Practical guide to DFT calculations in pyscf | plotting Vxc (almost correctly) |
 
 Week 2: <br>
 Introduction to HF/SCF Part 1
+
+Week 3: <br>
+HF/SCF Part 2: Roothaan equations | computational implementation | Basis sets
