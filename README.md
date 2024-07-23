@@ -6,3 +6,6 @@ Introduction to HF/SCF Part 1
 
 Week 3: <br>
 HF/SCF Part 2: Roothaan equations | computational implementation | Basis sets
+
+Week 4: <br>
+KS-DFT: SCF implementation using PySCF
