@@ -9,3 +9,6 @@ HF/SCF Part 2: Roothaan equations | computational implementation | Basis sets
 
 Week 4: <br>
 KS-DFT: SCF implementation using PySCF
+
+Week 5: <br>
+Week 4 Answers | Brief discussion of open-shell systems
